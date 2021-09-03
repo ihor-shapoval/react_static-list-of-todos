@@ -1,0 +1,2 @@
+html{font-family:Arial,Helvetica,sans-serif;font-size:24px}body,p{margin:0}.text-center{text-align:center}.list__item{display:grid;grid-template-columns:1fr 1fr 2fr 1fr;justify-items:center;padding:20px;border:1px solid #000;border-radius:5px;margin:0 10px 10px;background-color:#ffbf00;transition:all .3s}.list__item:hover{background-color:#369}.list__item--true{background-color:#3abb10}
+/*# sourceMappingURL=main.da329251.chunk.css.map */
